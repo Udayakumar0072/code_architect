@@ -1,6 +1,12 @@
 import 'package:code_architect/src/device_info/device_info.dart';
 import 'package:flutter/material.dart';
 
+// flutter --version
+// Flutter 3.24.4 • channel stable • https://github.com/flutter/flutter.git
+// Framework • revision 603104015d (11 months ago) • 2024-10-24 08:01:25 -0700
+// Engine • revision db49896cf2
+// Tools • Dart 3.5.4 • DevTools 2.37.3
+
 void main() {
   runApp(const MyApp());
 }
