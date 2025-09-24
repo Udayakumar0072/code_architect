@@ -1,6 +1,8 @@
 import 'package:code_architect/src/device_info/device_info.dart';
 import 'package:flutter/material.dart';
 
+// back-end branch
+
 void main() {
   runApp(const MyApp());
 }
